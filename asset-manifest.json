@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4da552fe.css",
+    "main.js": "/static/js/main.f4629721.js",
+    "static/js/453.af52d353.chunk.js": "/static/js/453.af52d353.chunk.js",
+    "static/media/2025-3-27 Moonveil Logo.png": "/static/media/2025-3-27 Moonveil Logo.6339abe34f43fb9375a6.png",
+    "index.html": "/index.html",
+    "main.4da552fe.css.map": "/static/css/main.4da552fe.css.map",
+    "main.f4629721.js.map": "/static/js/main.f4629721.js.map",
+    "453.af52d353.chunk.js.map": "/static/js/453.af52d353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da552fe.css",
+    "static/js/main.f4629721.js"
+  ]
+}
